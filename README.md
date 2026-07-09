@@ -5,7 +5,7 @@
 </p>
 <br>
 
-* Laad meldingenrapporten of sleep PDF's.  
+* Laad meldingenrapporten.  
 * Bekijk per leerling welke meldingen, acties, brieven en meldingen nodig zijn volgens de verzuimkaart.  
 * Filter op datum, klas, leerjaar, mentor, actie of melding.
 * Maak overzichten, tijdlijnen, waarschuwingsbrieven en huiswerkbrieven.  
