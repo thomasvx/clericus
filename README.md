@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td width="25%">
-        Exporteer rapporten of genereer brieven voor leerlingen.
+        Exporteer rapporten, zet emails klaar, of genereer brieven voor leerlingen.
       </td>
       <td width="75%">
         <img src="https://github.com/user-attachments/assets/5ae10945-6112-4b3f-bac9-f0130c3b04c4" width="100%" style="border:8px solid white;"/>
